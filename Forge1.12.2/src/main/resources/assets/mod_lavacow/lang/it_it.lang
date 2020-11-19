@@ -1,141 +1,141 @@
-#########
-# ITEMS #
-#########
+###########
+# OGGETTI #
+###########
 
-item.mod_lavacow.netherstew.name=Nether Stew
-item.mod_lavacow.canebeef.name=Cane Beef
-item.mod_lavacow.canepork.name=Cane Pork
-item.mod_lavacow.canerottenmeat.name=Cane Rotten Flesh
-item.mod_lavacow.fissionpotion.name=Potion of Fission
-item.mod_lavacow.hyphae.name=Hyphae
-item.mod_lavacow.parasite_item.name=Parasite
-item.mod_lavacow.parasite_item_cooked.name=Cooked Parasite
+item.mod_lavacow.netherstew.name=Stufato del Nether
+item.mod_lavacow.canebeef.name=Spiedino di manzo
+item.mod_lavacow.canepork.name=Spiedino di maiale
+item.mod_lavacow.canerottenmeat.name=Spiedino di carne marcia
+item.mod_lavacow.fissionpotion.name=Pozione della Fissione
+item.mod_lavacow.hyphae.name=Ifa
+item.mod_lavacow.parasite_item.name=Parassita
+item.mod_lavacow.parasite_item_cooked.name=Parassita cotto
 item.mod_lavacow.piranha.name=Piranha
-item.mod_lavacow.piranha_cooked.name=Cooked Piranha
+item.mod_lavacow.piranha_cooked.name=Piranha Cotto
 item.mod_lavacow.cheirolepis.name=Cheirolepis
-item.mod_lavacow.cheirolepis_cooked.name=Cooked Cheirolepis
-item.mod_lavacow.mousse.name=Minced meat
-item.mod_lavacow.meatball.name=Meat Ball
-item.mod_lavacow.sharptooth.name=Fangtooth
-item.mod_lavacow.bonesword.name=Bone Sword
-item.mod_lavacow.intestine.name=Intestine
-item.mod_lavacow.frozenthigh.name=Frozen Thigh
-item.mod_lavacow.poisonspore.name=Poisonous Spore
-item.mod_lavacow.undyingheart.name=Undying Heart
-item.mod_lavacow.goldenheart.name=Golden Heart
-item.mod_lavacow.moltenbeef.name=Molten Meat
-item.mod_lavacow.moltenaxe.name=Molten Axe
-item.mod_lavacow.moltenhammer.name=Molten Hammer
-item.mod_lavacow.mootenheart.name=Molten Heart
-item.mod_lavacow.potion_of_mooten_lava.name=Potion of MOOten Lava
-item.mod_lavacow.swinemask.name=Swine Mask
-item.mod_lavacow.plagued_porkchop.name=Plagued Porkchop
-item.mod_lavacow.green_bacon_and_eggs.name=Green Bacon & Eggs
-item.mod_lavacow.pigboarhide.name=Plagued Hide    
-item.mod_lavacow.scythe_claw.name=Scythe Claw
-item.mod_lavacow.reapers_scythe.name=Azrael's Scythe
-item.mod_lavacow.famine.name="Famine"
-item.mod_lavacow.mimic_claw.name=Mimicrab Claw
-item.mod_lavacow.mimic_claw_cooked.name=Baked Mimicrab Claw
-item.mod_lavacow.silky_sludge.name=Silky Sludge
-item.mod_lavacow.mossy_stick.name=Mossy Stick
-item.mod_lavacow.sludge_wand.name="Pestilence"
-item.mod_lavacow.burntovipositor.name=Burnt Ovipositor
-item.mod_lavacow.war.name="War"
-item.mod_lavacow.moltenpan.name=Molten Frypan
-item.mod_lavacow.felarmor_helmet.name=Molten Helmet
-item.mod_lavacow.felarmor_chestplate.name=Molten Chestplate
-item.mod_lavacow.felarmor_leggings.name=Molten Leggings
-item.mod_lavacow.felarmor_boots.name=Molten Boots
-item.mod_lavacow.ptera_wing.name=Ptera Wing
-item.mod_lavacow.ptera_wing_cooked.name=Fried Ptera Wing
-item.mod_lavacow.poisonstinger.name=Poison Stinger
-item.mod_lavacow.vespa_carapace.name=Vespa Carapace
-item.mod_lavacow.tooth_dagger.name=Tooth Dagger 
-item.mod_lavacow.vespa_dagger.name=Bee Sting
-item.mod_lavacow.sausage_roll.name=Sausage Roll
-item.mod_lavacow.swinearmor_chestplate.name=Swine Tunics
-item.mod_lavacow.swinearmor_leggings.name=Swine Pants
-item.mod_lavacow.swinearmor_boots.name=Swine Boots
-item.mod_lavacow.zombiepiranha_item.name=Swarmer
-item.mod_lavacow.zombiepiranha_item_cooked.name=Cooked Swarmer
-item.mod_lavacow.piranhalauncher.name=Swarmer Launcher
-item.mod_lavacow.cursed_fabric.name=Cursed Fabric
-item.mod_lavacow.cursed_bandage.name=Pet Bandage
-item.mod_lavacow.holy_sludge.name=Holy Sludge
-item.mod_lavacow.holy_grenade.name=Holy Grenade
-item.mod_lavacow.feather_black.name=Black Feather
-item.mod_lavacow.shattered_ice.name=Shattered Ice
-item.mod_lavacow.halo_necklace.name=Halo Necklace
-item.mod_lavacow.dreamcatcher.name=Dream Catcher
-item.mod_lavacow.undertaker_shovel.name=Midnight Mourne
-item.mod_lavacow.raven_whistle.name=Raven Whistle
-item.mod_lavacow.acidicheart.name=Acidic Heart
-item.mod_lavacow.faminearmor_helmet.name=Famine Helmet
-item.mod_lavacow.faminearmor_chestplate.name=Famine Tunics
-item.mod_lavacow.faminearmor_leggings.name=Famine Pants
-item.mod_lavacow.faminearmor_boots.name=Famine Boots
-item.mod_lavacow.foul_bristle.name=Foul Bristle
-item.mod_lavacow.crabcake.name=Crab Cake
-item.mod_lavacow.ectoplasm.name=Ectoplasm
-item.mod_lavacow.ghostjelly.name=Ghost Jelly
-item.mod_lavacow.banshee_vocal_cord.name=Banshee Vocal Cord
-item.mod_lavacow.weta_jaw.name=Weta Jaw
-item.mod_lavacow.chitin.name=Chitin
-item.mod_lavacow.ghostbomb.name=Ghost Bomb
-item.mod_lavacow.sonicbomb.name=Sonic Bomb
-item.mod_lavacow.weta_hoe.name=Weta Hoe
-item.mod_lavacow.bonestew.name=Bone Stew
+item.mod_lavacow.cheirolepis_cooked.name=Cheirolepis Cotto
+item.mod_lavacow.mousse.name=Carne macinate
+item.mod_lavacow.meatball.name=Polpetta di carne
+item.mod_lavacow.sharptooth.name=Zanna
+item.mod_lavacow.bonesword.name=Spada d'Osso
+item.mod_lavacow.intestine.name=Intestino
+item.mod_lavacow.frozenthigh.name=Coscia congelata
+item.mod_lavacow.poisonspore.name=Spore velenose
+item.mod_lavacow.undyingheart.name=Cuore Non-morto
+item.mod_lavacow.goldenheart.name=Cuore d'Oro
+item.mod_lavacow.moltenbeef.name=Carne Rovente
+item.mod_lavacow.moltenaxe.name=Ascia Rovente
+item.mod_lavacow.moltenhammer.name=Martello Rovente
+item.mod_lavacow.mootenheart.name=Cuore Rovente
+item.mod_lavacow.potion_of_mooten_lava.name=Pozione della Fissione lavica
+item.mod_lavacow.swinemask.name=Maschera da Cinghiale
+item.mod_lavacow.plagued_porkchop.name=Braciola di maiale appestata
+item.mod_lavacow.green_bacon_and_eggs.name=Bacon e Uova verdi
+item.mod_lavacow.pigboarhide.name=Pelle infestata
+item.mod_lavacow.scythe_claw.name=Artiglio a Falce
+item.mod_lavacow.reapers_scythe.name=Falce di Azrael
+item.mod_lavacow.famine.name="Carestia"
+item.mod_lavacow.mimic_claw.name=Chela di Mimicrab
+item.mod_lavacow.mimic_claw_cooked.name=Chela cotta di Mimicrab
+item.mod_lavacow.silky_sludge.name=Fango Setoso
+item.mod_lavacow.mossy_stick.name=Bastone muschioso
+item.mod_lavacow.sludge_wand.name="Pestilenza"
+item.mod_lavacow.burntovipositor.name=Ovopositore bruciato
+item.mod_lavacow.war.name="Guerra"
+item.mod_lavacow.moltenpan.name=Padella Rovente
+item.mod_lavacow.felarmor_helmet.name=Elmo Rovente
+item.mod_lavacow.felarmor_chestplate.name=Corazza Rovente
+item.mod_lavacow.felarmor_leggings.name=Gambiera Rovente
+item.mod_lavacow.felarmor_boots.name=Stivali Roventi
+item.mod_lavacow.ptera_wing.name=Ala di Ptera
+item.mod_lavacow.ptera_wing_cooked.name=Ala fritta di Ptera
+item.mod_lavacow.poisonstinger.name=Pungiglione velenoso
+item.mod_lavacow.vespa_carapace.name=Carapace di Vespa
+item.mod_lavacow.tooth_dagger.name=Pugnale di Zanna
+item.mod_lavacow.vespa_dagger.name=Puntura d'Ape
+item.mod_lavacow.sausage_roll.name=Rollé di parassiti
+item.mod_lavacow.swinearmor_chestplate.name=Tunica di cinghiale
+item.mod_lavacow.swinearmor_leggings.name=Pantaloni di cinghiale
+item.mod_lavacow.swinearmor_boots.name=Stivali di cinghiale
+item.mod_lavacow.zombiepiranha_item.name=Piranha Zombi
+item.mod_lavacow.zombiepiranha_item_cooked.name=Piranha Zombi cotto
+item.mod_lavacow.piranhalauncher.name=Lanciatore di Piranha Zombi
+item.mod_lavacow.cursed_fabric.name=Tessuto maledetto
+item.mod_lavacow.cursed_bandage.name=Bendaggio per animali domestici
+item.mod_lavacow.holy_sludge.name=Fango sacro
+item.mod_lavacow.holy_grenade.name=Bomba Santa
+item.mod_lavacow.feather_black.name=Piuma nera
+item.mod_lavacow.shattered_ice.name=Ghiaccio frantumato
+item.mod_lavacow.halo_necklace.name=Collana sacra
+item.mod_lavacow.dreamcatcher.name=Acchiappasogni
+item.mod_lavacow.undertaker_shovel.name=Lamento di Mezzanotte
+item.mod_lavacow.raven_whistle.name=Richiamo per corvi
+item.mod_lavacow.acidicheart.name=Cuore acido
+item.mod_lavacow.faminearmor_helmet.name=Elmo della carestia
+item.mod_lavacow.faminearmor_chestplate.name=Tunica della carestia
+item.mod_lavacow.faminearmor_leggings.name=Pantaloni della carestia
+item.mod_lavacow.faminearmor_boots.name=Stivali della carestia
+item.mod_lavacow.foul_bristle.name=Setola turpe
+item.mod_lavacow.crabcake.name=Torta di granchio
+item.mod_lavacow.ectoplasm.name=Ectoplasma
+item.mod_lavacow.ghostjelly.name=Gelatina fantasma
+item.mod_lavacow.banshee_vocal_cord.name=Corde vocali di Banshee
+item.mod_lavacow.weta_jaw.name=Mascella di Weta
+item.mod_lavacow.chitin.name=Chitina
+item.mod_lavacow.ghostbomb.name=Bomba fantasma
+item.mod_lavacow.sonicbomb.name=Bomba sonica
+item.mod_lavacow.weta_hoe.name=Zappa di Weta
+item.mod_lavacow.bonestew.name=Stufato di ossa
 
-material.mod_lavacow.moltenbeef.name=Molten Meat
-material.mod_lavacow.vespa_carapace.name=Vespa Carapace
-material.mod_lavacow.scythe_claw.name=Scythe Claw
-material.mod_lavacow.ectoplasm.name=Ectoplasm
+material.mod_lavacow.moltenbeef.name=Carne rovente
+material.mod_lavacow.vespa_carapace.name=Carapace di Vespa
+material.mod_lavacow.scythe_claw.name=Artiglio a Falce
+material.mod_lavacow.ectoplasm.name=Ectoplasma
 
-modifier.mod_lavacow.broodmother.name=Broodmother
-modifier.mod_lavacow.broodmother.desc=§oEnjoy a Wormy Cuddle§r\nSpawn a Vespa larva during combat or when a block is harvested.
-modifier.mod_lavacow.famine.name=Famine
-modifier.mod_lavacow.famine.desc=§oHorseman of Famine§r\nGives Hunger. Restore 1 hunger points when hitting a non-undead entity or harvesting a block. 
-modifier.mod_lavacow.unholytouch.name=Unholy Touch
-modifier.mod_lavacow.unholytouch.desc=§oDamn to the livings!§r\nDeals bonus damage to non-undead entity and applies Weakness 
+modifier.mod_lavacow.broodmother.name=Vespa Madre
+modifier.mod_lavacow.broodmother.desc=§oGoditi coccole vermose§r\nSpawna una larva di Vespa durante il combattimento o quando un blocco viene raccolto.
+modifier.mod_lavacow.famine.name=Carestia
+modifier.mod_lavacow.famine.desc=§oCavaliere della carestia§r\nInfligge fame. Rigenera un punto di fame quando colpisci un'entità viva o raccogli un blocco.
+modifier.mod_lavacow.unholytouch.name=Tocco Empio
+modifier.mod_lavacow.unholytouch.desc=§oDannati i viventi!§r\nInfligge più danni alle entità vive e applica debolezza
 
-##########
-# BLOCKS #
-##########    
+###########
+# BLOCCHI #
+###########   
 
-tile.mod_lavacow.glowshroom.name=Glow Shroom
-tile.mod_lavacow.pileofsludge.name=Sludge Pile
-tile.mod_lavacow.glowshroom_block_cap.name=Glow Shroom Cap
-tile.mod_lavacow.glowshroom_block_stem.name=Glow Shroom Stem
+tile.mod_lavacow.glowshroom.name=Fungo luminoso
+tile.mod_lavacow.pileofsludge.name=Pila di fango
+tile.mod_lavacow.glowshroom_block_cap.name=Cappuccio di fungo luminoso
+tile.mod_lavacow.glowshroom_block_stem.name=Gambo di fungo luminoso
 tile.mod_lavacow.bloodtooth_shroom.name=Bloodtooth
 tile.mod_lavacow.cordy_shroom.name=Cordyceps
 tile.mod_lavacow.veil_shroom.name=Veil Shroom
-tile.mod_lavacow.scarecrowhead_common.name=Scarecrow Head
-tile.mod_lavacow.scarecrowhead_straw.name=Scarecrow Head
-tile.mod_lavacow.scarecrowhead_plague.name=Scarecrow Head
-tile.mod_lavacow.tombstone.name=Tombstone
+tile.mod_lavacow.scarecrowhead_common.name=Testa di Spaventapasseri
+tile.mod_lavacow.scarecrowhead_straw.name=Testa di Spaventapasseri
+tile.mod_lavacow.scarecrowhead_plague.name=Testa di Spaventapasseri
+tile.mod_lavacow.tombstone.name=Lapide
 
 ############
 # Entities #
 ############
 
 entity.mod_lavacow.lavacow.name=Moogma
-entity.mod_lavacow.zombiemushroom.name=Mycosis
-entity.mod_lavacow.parasite.name=Parasite
-entity.mod_lavacow.foglet.name=Foglet
-entity.mod_lavacow.zombiefrozen.name=Frigid
-entity.mod_lavacow.undeadswine.name=Undead Swine
-entity.mod_lavacow.salamander.name=Salamander
+entity.mod_lavacow.zombiemushroom.name=Micosi
+entity.mod_lavacow.parasite.name=Parassita
+entity.mod_lavacow.foglet.name=Nebbiolino
+entity.mod_lavacow.zombiefrozen.name=Frigido
+entity.mod_lavacow.undeadswine.name=Cinghiale Zombi
+entity.mod_lavacow.salamander.name=Salamandra
 entity.mod_lavacow.ithaqua.name=Ithaqua
 entity.mod_lavacow.mimic.name=Mimicrab
 entity.mod_lavacow.sludgelord.name=Sludge Lord
 entity.mod_lavacow.lilsludge.name=Lil'Sludge
-entity.mod_lavacow.raven.name=Raven
+entity.mod_lavacow.raven.name=Corvo
 entity.mod_lavacow.ptera.name=Ptera
 entity.mod_lavacow.vespa.name=Vespa
-entity.mod_lavacow.scarecrow.name=Scarecrow
-entity.mod_lavacow.vespacocoon.name=Vespa Cocoon
-entity.mod_lavacow.zombiepiranha.name=Swarmer
+entity.mod_lavacow.scarecrow.name=Spaventapasseri
+entity.mod_lavacow.vespacocoon.name=Bozzolo di Vespa
+entity.mod_lavacow.zombiepiranha.name=Piranha Zombi
 entity.mod_lavacow.piranha.name=Piranha
 entity.mod_lavacow.boneworm.name=Osvermis
 entity.mod_lavacow.raven.seagull=Seagull
@@ -305,11 +305,11 @@ key.mod_lavacow.special=Mount Special Ability
 # Enchantments #
 ################
 
-enchantment.mod_lavacow.Poisonous=Poisonous
+enchantment.mod_lavacow.Poisonous=Velenoso
 enchantment.mod_lavacow.Poisonous.desc=Inflicts the target with Poison
-enchantment.mod_lavacow.Lifesteal=Lifesteal
+enchantment.mod_lavacow.Lifesteal=Rubavita
 enchantment.mod_lavacow.Lifesteal.desc=Heals the player while dealing damage to targets
-enchantment.mod_lavacow.Corrosive=Corrosive
+enchantment.mod_lavacow.Corrosive=Corrosivo
 enchantment.mod_lavacow.Corrosive.desc=Weakens the target, causing it to receive more damage from any source
 
 ##############
