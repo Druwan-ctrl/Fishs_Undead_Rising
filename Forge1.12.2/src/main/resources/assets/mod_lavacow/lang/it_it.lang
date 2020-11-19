@@ -128,8 +128,8 @@ entity.mod_lavacow.undeadswine.name=Cinghiale Zombi
 entity.mod_lavacow.salamander.name=Salamandra
 entity.mod_lavacow.ithaqua.name=Ithaqua
 entity.mod_lavacow.mimic.name=Mimicrab
-entity.mod_lavacow.sludgelord.name=Sludge Lord
-entity.mod_lavacow.lilsludge.name=Lil'Sludge
+entity.mod_lavacow.sludgelord.name=Signore del Fango
+entity.mod_lavacow.lilsludge.name=Fanghetto
 entity.mod_lavacow.raven.name=Corvo
 entity.mod_lavacow.ptera.name=Ptera
 entity.mod_lavacow.vespa.name=Vespa
@@ -141,10 +141,10 @@ entity.mod_lavacow.boneworm.name=Osvermis
 entity.mod_lavacow.raven.seagull=Seagull
 entity.mod_lavacow.pingu.name=Penghoul
 entity.mod_lavacow.undertaker.name=Undertaker
-entity.mod_lavacow.unburied.name=Unburied
-entity.mod_lavacow.ghostray.name=Ghost Ray
+entity.mod_lavacow.unburied.name=Riesumato
+entity.mod_lavacow.ghostray.name=Razza fantasma
 entity.mod_lavacow.banshee.name=Banshee
-entity.mod_lavacow.weta.name=Emperor Weta
+entity.mod_lavacow.weta.name=Imperatore Weta
 entity.mod_lavacow.avaton.name=Avaton
 
 ##########
